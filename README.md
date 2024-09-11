@@ -4,7 +4,7 @@
 
 1. **Clone the repository:**
    ```bash
-   git clone <Backend_Live2Train>
+   git clone <https://github.com/karthickkumar63826/Backend_Live2Train.git>
    cd Liv2Train-MVP
 
 2. **Run project:**
